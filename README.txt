@@ -1,0 +1,3 @@
+Reverse Polish Notation Calculator
+
+This project was presented to our development team as a refactoring kata, where the original calculator was hard to understand and generally dense.  The goal was to refactor it for readability and to make it easy to extension.  The original tests were not to be changed, and should pass with the refactored code.  The tests could be extended to include additional elements if desired.
